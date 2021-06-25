@@ -4,10 +4,35 @@ subject: 'cat:cs.*'
 # 検索キーワード
 keywords:
         reinforcement learning: 3
-        quadruped: 3
-        motion planning: 3
+        meta learning: 3
+        auto ML: 3
+        deep learning: 1
+        detection: 3
+        transformer: 3
+        attention: 3
+        classification: 1
+        object detection: 1
+        object segmentation: 1
+        actor-critic: 2
+        actor-critic interaction: 1
+        action detection: 2
+        action proposal: 2
+        world model: 4
         segmentation: 3
-      
+        action recongnition: 3
+        video captioning: 3
+        temporal action proposal: 3
+        temporal action detection: 3
+        medical data: 2
+        biomedical image: 2
+        medial image: 2
+        tabular data: 1
+        meta regression: 3
+        medical analysis: 3
+        amodal segmentation: 1
+        dense counting: 2
+        tracking: 2
+        
 
 # 通知の閾値
-score_threshold: 0
+score_threshold: 3
