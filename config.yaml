@@ -32,7 +32,9 @@ keywords:
         amodal segmentation: 1
         dense counting: 2
         tracking: 2
+        nas: 2
+        neural architecture search: 3
         
 
 # 通知の閾値
-score_threshold: 4
+score_threshold: 6
